@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piyushmnoob
 - 👀 I’m interested in Android Development. 
 - 🌱 I’m currently learning DSA.
-- 📫 You can reach me on twitter. Here is the twitter handle :- @PiyushS92461766
+- 📫 You can reach me on twitter. Here is my twitter handle :- @PiyushS92461766
 
 <!---
 Piyushmnoob/Piyushmnoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
