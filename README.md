@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Piyushmnoob
 - 👀 I’m interested in Android Development. 
 - 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on twitter. Here is the twitter handle :- @PiyushS92461766
 
 <!---
